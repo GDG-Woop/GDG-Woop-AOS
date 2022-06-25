@@ -42,7 +42,7 @@ android {
 dependencies {
     def lifecycle_version = "2.4.0-alpha03"
     def hilt_version = '2.38.1'
-    def groupie_version = 'v2.10.1'
+    def groupie_version = '2.10.1'
 
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'com.google.firebase:firebase-messaging-ktx:23.0.5'
